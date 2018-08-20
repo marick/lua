@@ -1,7 +1,7 @@
 #!/bin/bash
 # This is running under Ubuntu 16.04
 # Install necessary packages.
-sudo apt-get install blablabla -y
+# sudo apt-get install blablabla -y
 
 # Replace your C compiler command like `gcc` with `kcc`,
 # Use `-fissue-report` flag to collect errors to `my_errors.json` file.
